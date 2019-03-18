@@ -1,3 +1,5 @@
+// Anything you want to export you pass as module.exports = {}
+
 module.exports = {
   hubs: {
     find: findHubs,
